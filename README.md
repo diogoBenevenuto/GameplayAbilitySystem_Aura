@@ -1,5 +1,7 @@
 # 🎮 RPG with Gameplay Ability System (Unreal Engine)
 
+> 🇧🇷 [Read in Portuguese](#-versão-em-português)
+
 This project focuses on developing a complete RPG using Unreal Engine, with an emphasis on professional code architecture, multiplayer mechanics, and advanced usage of the Gameplay Ability System (GAS).
 
 ---
@@ -90,6 +92,9 @@ The goal is to strengthen my game development skills using **C++** and **Bluepri
 
 This project is part of my learning journey as a game developer, focused on applying professional practices and building reusable, scalable systems.
 
+---
+
+---
 ---
 
 ## 🇧🇷 Versão em Português
